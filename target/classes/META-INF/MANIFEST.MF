@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ricky
+Build-Jdk: 10.0.1
+Implementation-Title: CatchpointIdea
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: CatchpointIdea
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CatchpointIdea
+Created-By: Maven Integration for Eclipse
+
